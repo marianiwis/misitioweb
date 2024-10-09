@@ -1,0 +1,172 @@
+html {
+    background-image: url('https://i.pinimg.com/564x/40/0c/30/400c30b4409f32bdef5598ec252ebd5a.jpg'); /* Asegúrate de que la ruta sea correcta */
+    background-size: cover; /* asegura que la imagen cubra toda la pantalla */
+    background-repeat: no-repeat; /* evita que la imagen se repita */
+    background-attachment: fixed; /* hace que la imagen se mantenga fija al hacer scroll */
+    background-position: center center; /* centra la imagen para mantener su calidad */
+    image-rendering: crisp-edges; /* mantiene bordes nítidos */
+    image-rendering: pixelated; /* previene el suavizado de la imagen */
+}
+
+#firstH{
+    font-family: "Yatra One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 330%;
+    margin-top: 50px;
+    color: rgb(139, 4, 31);
+  }
+
+.imagen-perfil {
+    display: block;
+    margin: 20px auto; /* centra la imagen horizontalmente */
+    width: 260px; /* ajusta el tamaño según sea necesario */
+    height: 260px; /* ajusta el tamaño según sea necesario */
+    border-radius: 50%; /* hace que la imagen sea redonda */
+    object-fit: cover; /* asegura que la imagen se ajuste al contenedor */
+    border: 5px solid rgb(139, 4, 31);;
+}
+
+.primera{
+    text-align: center;
+    font-family: "Yatra One", sans-serif;
+    font-weight: 400;
+    color: rgb(139, 4, 31);
+    font-size: 200%;
+}
+
+button {
+    background-color: rgb(250, 146, 28);
+    border: 2px solid orangered;
+    color: rgb(139, 4, 31);
+    padding: 15px 32px; /* espaciado interno (padding) */
+    text-align: center; /* alineación del texto */
+    display: inline-flex; /* cambia a inline-flex para mantener el botón en línea */
+    font-size: 16px; /* tamaño de la fuente */
+    border-radius: 5px; /* bordes redondeados */
+    align-items: center; /* centra el contenido verticalmente */
+    font-weight: bold;
+    cursor: pointer; /* cambia el cursor cuando pasa sobre el botón */
+    text-decoration: none; /* elimina el subrayado si el botón es un enlace */
+    transition: background-color 0.3s ease; /* agrega una transición suave al color de fondo */
+}
+
+button:hover {
+    background-color: rgb(240, 130, 20); /* color de fondo al pasar el mouse (hover) */
+}
+
+/*estilos de la pag2*/
+
+/* contenedor principal */
+.cont {
+    display: flex;
+    flex-direction: column; /* cambia la dirección a columna para apilar verticalmente */
+    align-items: center; /* centra las cajas horizontalmente en el contenedor */
+    gap: 20px; /* espacio entre las cajas */
+    padding: 20px;
+}
+
+/* estilo de la caja de Educación */
+.caja1 p strong {
+    font-size: 24px; /* tamaño de letra más grande para el encabezado de Educación */
+    font-weight: bold; /* negrita para el encabezado */
+}
+
+/* estilo de la caja de Idiomas */
+.caja2 p strong {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* estilo de la caja de Hobbies */
+.caja3 p strong {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* estilo de las cajas */
+.caja1{
+    background-color: none;
+    border: 3px solid rgb(139, 4, 31);
+    border-radius: 5px; /* bordes redondeados */
+    padding: 20px; /* espaciado interno */
+    width: 300px; /* ancho fijo para las cajas */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* sombra sutil */
+}
+
+.caja2{
+    background-color: none;
+    border: 3px solid rgb(139, 4, 31);
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.caja3{
+    background-color: none;
+    border: 3px solid rgb(139, 4, 31);
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* estilo de las sub-cajas */
+.sub-caja {
+    font-family: "Yatra One", sans-serif;
+    font-weight: 400;
+    margin-bottom: 15px; /* espacio inferior entre secciones dentro de la caja */
+}
+
+.sub-caja p {
+    font-size: 18px; /* tamaño de fuente para los encabezados dentro de las sub-cajas */
+    font-weight: bold; /* negrita para los encabezados */
+    text-decoration: underline; /* subrayado para los encabezados */
+    margin-bottom: 10px; /* espacio debajo del encabezado */
+}
+
+/* listas dentro de las sub-cajas */
+.sub-caja ul {
+    list-style-type: disc; /* puntos en la lista */
+    padding-left: 20px; /* sangría para los ítems de la lista */
+}
+
+ul li {
+    font-size: 16px; /* tamaño de fuente para los ítems de la lista */
+    margin-bottom: 10px; /* espacio entre ítems */
+}
+
+ul p {
+    font-size: 20px; /* tamaño de fuente para los encabezados dentro de la lista */
+    font-weight: bold; /* negrita para los encabezados */
+    margin-bottom: 10px; /* espacio debajo del encabezado */
+}
+
+/* estilos del footer */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px; /* espacio de arriba para separar del contenido */
+}
+
+/* estilo del botón */
+button {
+    background-color: rgb(250, 146, 28);
+    border: 2px solid orangered;
+    color: rgb(139, 4, 31);
+    padding: 15px 32px; /* espaciado interno */
+    font-size: 16px;
+    border-radius: 5px; /* bordes redondeados */
+    cursor: pointer; /* cambia el cursor al pasar sobre el botón */
+    text-decoration: none; /* elimina el subrayado */
+}
+
+a {
+    text-decoration: none; /* elimina el subrayado del enlace */
+}
+
+
+
