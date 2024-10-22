@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Canción 1",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+        "genre": "Pop",
+        "description": "Una canción icónica del pop."
+    },
+    {
+        "title": "Canción 2",
+        "url": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+        "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg",
+        "genre": "Rock",
+        "description": "Un clásico del rock que nunca pasa de moda."
+    },
+    {
+        "title": "Canción 3",
+        "url": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+        "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/0.jpg",
+        "genre": "Hip-Hop",
+        "description": "Una mezcla perfecta de ritmos y letras."
+    }
+]
