@@ -1,0 +1,15 @@
+[
+    {
+        "artist": "Artista 1",
+        "image": "img/artista1.jpg",
+        "videos": [
+            {
+                "title": "Video 1",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+                "genre": "Pop",
+                "description": "Un video de prueba."
+            }
+        ]
+    }
+]
