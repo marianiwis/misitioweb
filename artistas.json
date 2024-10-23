@@ -1,15 +1,27 @@
-[
-    {
-        "artist": "Artista 1",
-        "image": "img/artista1.jpg",
-        "videos": [
-            {
-                "title": "Video 1",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-                "genre": "Pop",
-                "description": "Un video de prueba."
-            }
-        ]
-    }
+[{
+    "artist": "Artista 1",
+    "images": [
+        "thew1.jpg",
+        "thew3.jpg",
+        "thew4.jpg",
+        "thew5.jpg"
+    ],
+    "videos": [
+        "https://www.youtube.com/embed/watch?v=ygTZZpVkmKg",
+        "https://www.youtube.com/embed/watch?v=peLRPSCeppI"
+    ],
+    "description": "el abel alto artista wacho es increible lo que este loco hace con una casetera k lo pario."
+},
+{
+    "artist": "Artista 2",
+    "images": [
+        "thew6.jpg",
+        "thew7.jpg",
+        "thew8.jpg"
+    ],
+    "videos": [
+        "https://www.youtube.com/watch?v=xyz12345"
+    ],
+    "description": "Descripción del Artista 2."
+}
 ]
