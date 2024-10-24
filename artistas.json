@@ -35,5 +35,43 @@
         "https://www.youtube.com/watch?v=FJEbZ0oU4gA"
     ],
     "description": "Descripción del Artista 2."
+},
+{
+    "artist": "SZA",
+    "images": [
+        "imgArtistas/sza1.jpg",
+        "imgArtistas/sza2.jpg",
+        "imgArtistas/sza3.jpg",
+        "imgArtistas/sza4.jpg"
+    ],
+    "videos": [
+        "https://www.youtube.com/watch?v=0BdlKkvjEgA",
+        "https://www.youtube.com/watch?v=NNd_ufPG3x4",
+        "https://www.youtube.com/watch?v=Sv5yCzPCkv8",
+        "https://www.youtube.com/watch?v=MSRcC626prw",
+        "https://www.youtube.com/watch?v=_R2LiwXtuLQ",
+        "https://www.youtube.com/watch?v=2p3zZoraK9g",
+        "https://www.youtube.com/watch?v=0Exxu8lsGYE"
+    ],
+    "description": "el abel alto artista wacho es increible lo que este loco hace con una casetera k lo pario."
+},
+{
+    "artist": "Lana Del Rey",
+    "images": [
+        "imgArtistas/lana1.jpg",
+        "imgArtistas/lana2.jpg",
+        "imgArtistas/lana3.jpg",
+        "imgArtistas/lana4.jpg"
+    ],
+    "videos": [
+        "https://www.youtube.com/watch?v=ZegtK54DC4c",
+        "https://www.youtube.com/watch?v=IuY54A3bOmg",
+        "https://www.youtube.com/watch?v=-Fg-DcLJY4s",
+        "https://www.youtube.com/watch?v=Yb2zNCG0s3I",
+        "https://www.youtube.com/watch?v=wPt0dGg4BKA",
+        "https://www.youtube.com/watch?v=o_1aF54DO60",
+        "https://www.youtube.com/watch?v=qolmz4FlnZ0"
+    ],
+    "description": "el abel alto artista wacho es increible lo que este loco hace con una casetera k lo pario."
 }
 ]
