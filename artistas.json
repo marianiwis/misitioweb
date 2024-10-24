@@ -1,26 +1,38 @@
 [{
-    "artist": "Artista 1",
+    "artist": "The Weeknd",
     "images": [
-        "thew1.jpg",
-        "thew3.jpg",
-        "thew4.jpg",
-        "thew5.jpg"
+        "imgArtistas/thew1.jpg",
+        "imgArtistas/thew3.jpg",
+        "imgArtistas/thew4.jpg",
+        "imgArtistas/thew5.jpg"
     ],
     "videos": [
-        "https://www.youtube.com/embed/watch?v=ygTZZpVkmKg",
-        "https://www.youtube.com/embed/watch?v=peLRPSCeppI"
+        "https://www.youtube.com/watch?v=v5PZw1Wr-l0",
+        "https://www.youtube.com/watch?v=u9n7Cw-4_HQ",
+        "https://www.youtube.com/watch?v=1DpH-icPpl0",
+        "https://www.youtube.com/watch?v=rhTl_OyehF8",
+        "https://www.youtube.com/watch?v=y08R20KflNM",
+        "https://www.youtube.com/watch?v=2fDzCWNS3ig",
+        "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
     ],
     "description": "el abel alto artista wacho es increible lo que este loco hace con una casetera k lo pario."
 },
 {
-    "artist": "Artista 2",
+    "artist": "Tom Misch",
     "images": [
-        "thew6.jpg",
-        "thew7.jpg",
-        "thew8.jpg"
+        "imgArtistas/tom1.jpg",
+        "imgArtistas/tom2.jpg",
+        "imgArtistas/tom3.jpg",
+        "imgArtistas/tom4.jpg"
     ],
     "videos": [
-        "https://www.youtube.com/watch?v=xyz12345"
+        "https://www.youtube.com/watch?v=M1N_wbhAfQ4",
+        "https://www.youtube.com/watch?v=IUMTaAQ43lY",
+        "https://www.youtube.com/watch?v=OF7rpAfBUSM",
+        "https://www.youtube.com/watch?v=ImllpvDwbQ8",
+        "https://www.youtube.com/watch?v=X_1cgHy4M7E&t=3300s",
+        "https://www.youtube.com/watch?v=DUzEYcR2VtM",
+        "https://www.youtube.com/watch?v=FJEbZ0oU4gA"
     ],
     "description": "Descripción del Artista 2."
 }
