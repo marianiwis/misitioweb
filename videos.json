@@ -1,0 +1,26 @@
+[
+    {
+        "artist": "Artista 1",
+        "images": [
+            "img/artista1-imagen1.jpg",
+            "img/artista1-imagen2.jpg"
+        ],
+        "videos": [
+            "https://www.youtube.com/embed/videoid1",
+            "https://www.youtube.com/embed/videoid2"
+        ],
+        "description": "Descripción del Artista 1."
+    },
+    {
+        "artist": "Artista 2",
+        "images": [
+            "img/artista2-imagen1.jpg",
+            "img/artista2-imagen2.jpg"
+        ],
+        "videos": [
+            "https://www.youtube.com/embed/videoid3",
+            "https://www.youtube.com/embed/videoid4"
+        ],
+        "description": "Descripción del Artista 2."
+    }
+]
